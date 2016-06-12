@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: Overwatch Health Sounds
+
+## Version: 0.1
+## Author: Oliver Williams
+## Notes: Plays an Overwatch character's "I need healing" sound when low on health
+## SavedVariables: OHSDB
+
+Overwatch_Health_Sounds.lua
