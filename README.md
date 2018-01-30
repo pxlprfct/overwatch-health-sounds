@@ -27,14 +27,14 @@ A World of Warcraft addon that plays an Overwatch character's "I need healing" s
 
 Available voice lines - D.va, Genji, Junkrat, Lúcio, Mei, Mercy, Reaper, Roadhog, Solider: 76, Symmetra, Torbjörn, Tracer, Widowmaker, Winston, Zarya, Zenyatta
 
-The following voice lines are missing - Bastion, Hanzo, McCree, Pharah, Reinhardt
+The following voice lines are missing - Ana, Bastion, Doomfist, Hanzo, McCree, Moira, Orisa, Pharah, Reinhardt
 
-Soundfiles found on [Sounds of Overwatch](http://rpboyer15.github.io/sounds-of-overwatch/)
+Soundfiles originally found on [Sounds of Overwatch](http://bingur.github.io/sounds-of-overwatch/)
 
-Also on [Curse](http://mods.curse.com/addons/wow/overwatch-health-sounds)
+[Curse link](http://mods.curse.com/addons/wow/overwatch-health-sounds)
 
 ---
+
 **ToDo**
-- Find missing voice lines (Bastion, Hanzo, McCree, Pharah, Reinhardt)
-- Find low-health 'gasps' (all files are currently missing)
-- General Code Cleanup
+- Find/add missing voice lines (Ana, Bastion, Doomfist, Hanzo, McCree, Moira, Orisa, Pharah, Reinhardt)
+- Find low-health 'gasps' (*all* files are currently missing)
